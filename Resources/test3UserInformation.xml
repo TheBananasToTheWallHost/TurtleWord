@@ -1,0 +1,15 @@
+<Owner Name="test3">
+  <Application AppName="Loli Jbait">
+    <Username>jbaited1</Username>
+    <Password>hellofbi</Password>
+  </Application>
+  <Application AppName="">
+    <Username>
+    </Username>
+    <Password />
+  </Application>
+  <Application AppName="red1">
+    <Username>red2</Username>
+    <Password>red3</Password>
+  </Application>
+</Owner>

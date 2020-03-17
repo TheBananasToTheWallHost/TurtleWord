@@ -1,0 +1,7 @@
+C:\Users\RUM\Desktop\CS 3500 Projects\TurtleWord\Resources\bin\Release\Resources.dll.config
+C:\Users\RUM\Desktop\CS 3500 Projects\TurtleWord\Resources\bin\Release\Resources.dll
+C:\Users\RUM\Desktop\CS 3500 Projects\TurtleWord\Resources\bin\Release\Resources.pdb
+C:\Users\RUM\Desktop\CS 3500 Projects\TurtleWord\Resources\obj\Release\Resources.csprojResolveAssemblyReference.cache
+C:\Users\RUM\Desktop\CS 3500 Projects\TurtleWord\Resources\obj\Release\Resources.csproj.CoreCompileInputs.cache
+C:\Users\RUM\Desktop\CS 3500 Projects\TurtleWord\Resources\obj\Release\Resources.dll
+C:\Users\RUM\Desktop\CS 3500 Projects\TurtleWord\Resources\obj\Release\Resources.pdb

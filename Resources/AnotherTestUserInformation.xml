@@ -1,0 +1,18 @@
+<Owner Name="AnotherTest">
+  <Application AppName="Smite">
+    <Username>AltAccount99</Username>
+    <Password>creativepassword123</Password>
+  </Application>
+  <Application AppName="Smite">
+    <Username>yoMommaIsNotHot</Username>
+    <Password>sickmaymays</Password>
+  </Application>
+  <Application AppName="ko">
+    <Username>ko</Username>
+    <Password>ko</Password>
+  </Application>
+  <Application AppName="io">
+    <Username>io</Username>
+    <Password>io</Password>
+  </Application>
+</Owner>
